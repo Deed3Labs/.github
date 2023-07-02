@@ -1,4 +1,4 @@
-### Welcome to **Deed3Labs**!
+## Welcome to **Deed3Labs**!
 
 ## Overview
 
