@@ -1,5 +1,13 @@
 # Welcome to **Deed3Labs**!
 
+**Deed3** is the User Interface (UI) that sits on top of DeedProtocol. It's the primary tool for users to interact with DeedProtocol. Deed3 is designed with a user-centric approach, making it possible for users, even those with minimal knowledge about blockchain, to register assets, initiate leases, and conduct transactions with ease.
+
+Key features of Deed3 include:
+
+- Intuitive and user-friendly design
+- Seamless integration with DeedProtocol
+- Facilitation of asset registration, leasing, and transactions
+
 ## Overview
 
 **Deed3Labs** is a trailblazing organization designed to disrupt the traditional ways we deal with real assets, which includes **land, real estate, vehicles, and commercial equipment**. We utilize the potential of **blockchain technology** to bring forth an ecosystem that upholds values of **transparency, efficiency, and security**.
@@ -19,16 +27,6 @@ Key features of DeedProtocol include:
 - Robust and secure smart contracts
 - Streamlined asset registration and leasing procedures
 - Transparent transactions
-
-### Welcome to Deed3Labs!
-
-**Deed3** is the User Interface (UI) that sits on top of DeedProtocol. It's the primary tool for users to interact with DeedProtocol. Deed3 is designed with a user-centric approach, making it possible for users, even those with minimal knowledge about blockchain, to register assets, initiate leases, and conduct transactions with ease.
-
-Key features of Deed3 include:
-
-- Intuitive and user-friendly design
-- Seamless integration with DeedProtocol
-- Facilitation of asset registration, leasing, and transactions
 
 ## Governance Model
 
