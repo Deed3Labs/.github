@@ -51,4 +51,4 @@ Operating within the legal confines of the jurisdictions it serves, **Deed3Labs*
 
 **Deed3Labs** is not just an organization; it's a community determined to reshape real asset interactions. We welcome you to join us on this groundbreaking journey, where together, we can fully leverage the potential of real assets.
 
-For further information, please visit our documentation pages or join our vibrant community on - https://docs.deedprotocol.org
+For further information, please visit our documentation pages or join our vibrant community on the - [Deed3 Discord Server](https://discord.gg/S7kDY5wFxx)
