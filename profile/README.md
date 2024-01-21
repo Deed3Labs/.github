@@ -6,7 +6,7 @@ Our main focus is to simplify and streamline the process of registering, leasing
 
 ## Our Offerings
 
-**Deed3Labs** is primarily centered around two fundamental components: **The Deed Protocol** and **The Deed3 Interface**. These elements work together to deliver an unparalleled user experience.
+**Deed3Labs** is primarily centered around three fundamental components: **The Deed Protocol**, **The Deed3 Interface** and **The Deed3 Integration Tools **  . These elements work together to deliver an unparalleled user experience.
 
 ### DeedProtocol
 
