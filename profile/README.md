@@ -1,4 +1,4 @@
-# Clear Financial Coop
+# Clear Financial Coop.
 ### Formerly Deed3Labs
 
 Clear is building cooperative infrastructure that connects ownership, finance, and physical products on-chain.
