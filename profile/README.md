@@ -1,68 +1,85 @@
-# Welcome to **Deed3Labs**!
+# Clear Financial Coop
+### Formerly Deed3Labs
 
-**Deed3Labs** is a trailblazing organization designed to disrupt the traditional ways we deal with real assets, which includes **land, real estate, vehicles, and commercial equipment**. We utilize the potential of **blockchain technology** to bring forth an ecosystem that upholds values of **transparency, efficiency, and security**.
+Clear is building cooperative infrastructure that connects ownership, finance, and physical products on-chain.
 
-Our main focus is to simplify and streamline the process of registering, leasing, and transacting real assets, removing traditional barriers that impede accessibility, and offering unprecedented value to our users.
+We’re designing this platform to be useful for hobbyists, developers, businesses, and everyday consumers, not just crypto-native teams.
 
-## Our Offerings
+## Mission
 
-**Deed3Labs** is primarily centered around three fundamental components: **The Deed Protocol**, **The Deed3 Interface** and **The Deed3 Integration Tools **  . These elements work together to deliver an unparalleled user experience.
+**Turning renters into owners.**  
+**Stop Renting. Start Owning. Take the Clear path.**
 
-### DeedProtocol
+## Our Platform in 3 Layers
 
-**DeedProtocol** is the underlying infrastructure of our platform. Built on the Ethereum blockchain, it hosts a suite of smart contracts that set the rules and procedures for **asset registration, leasing, and transactions**. Carefully crafted to prioritize **security, transparency, and efficiency**, DeedProtocol ensures that all interactions on our platform meet the most stringent standards.
+## 1) Ownership & RWA Rails
 
-Key features of DeedProtocol include:
+We bring real-world assets on-chain with a focus on legal-grade ownership records and programmable asset behavior.
 
-- Robust and secure smart contracts
-- Streamlined asset registration and leasing procedures
-- Transparent transactions
+- Deeds and titles represented through protocol contracts
+- Asset lifecycle tracking from issuance to transfer
+- Programmable ownership logic for resale, permissions, and value-sharing
+- Infrastructure that can support property-backed products and future asset classes
 
-### Deed3 User Interface
+## 2) Financial Rails
 
-**Deed3** is the User Interface (UI) that sits on top of DeedProtocol. It's the primary tool for users to interact with DeedProtocol. Deed3 is designed with a user-centric approach, making it possible for users, even those with minimal knowledge about blockchain, to register assets, initiate leases, and conduct transactions with ease.
+We’re building a full stack of financial primitives that can power member products and partner integrations.
 
-Key features of Deed3 include:
+- **Clear Savings (ESA):** equity-oriented savings rails
+- **Clear Equity (ELPA):** ownership-path models tied to housing participation
+- **Clear USD (`$CLRUSD`):** programmable settlement infrastructure
+- **Clear Credit:** underwriting and servicing primitives
+- **Clear Assurance:** reserve and protection mechanics for system resilience
 
-- Intuitive and user-friendly design
-- Seamless integration with DeedProtocol
-- Facilitation of asset registration, leasing, and transactions
+## 3) Clear Tag Network (Physical Goods On-Chain)
 
-### Deed3 Integration Tools
+We are extending beyond deeds/titles with manufactured tags (RFID/microchips) that can be sewn into or embedded in physical products.
 
-**Deed3 Integration Tools** are a suite of advanced technical resources designed by Deed3Labs to facilitate the integration and customization of services into The Deed Protocol. These tools include Software Development Kits (SDKs), Application Programming Interfaces (APIs), and an Open Design System (ODS), providing a comprehensive framework for developers, financial institutions, and other entities to seamlessly connect their existing systems with The Deed Protocol.
+Built for:
 
-Key features of the Deed3 Integration Tools include:
+- Hobbyists and independent creators
+- Small businesses and growing brands
+- Enterprise manufacturers and retail operators
 
-- **Software Development Kits (SDKs):** These kits offer developers a set of tools, libraries, and documentation, simplifying the process of building and integrating blockchain-based applications.
+What this enables:
 
-- **Application Programming Interfaces (APIs):** The APIs provide flexible and robust interfaces for external systems to interact with The Deed Protocol, allowing for efficient data exchange and functionality integration.
+- Product authenticity and provenance verification
+- Rich post-sale movement and lifecycle data
+- Better resale control and programmable secondary-market revenue
+- Retail and brick-and-mortar security workflows
+- Loyalty, perks, and gamified ownership experiences
 
-- **Open Design System (ODS):** This system delivers a range of UI components and design guidelines, enabling the creation of custom user interfaces that align with specific branding and user experience requirements. 
+## Why We’re Building Our Own Chain
 
-The Deed3 Integration Tools are essential in enhancing The Deed Protocol's adaptability and user engagement, making it a versatile solution for a variety of industries and applications.
+Our home chain gives us a unified environment for:
 
-## Governance Model
+- Financial infrastructure
+- RWA ownership systems
+- Physical item identity rails
 
-**Deed3Labs** operates under a hybrid governance model that amalgamates **on-chain** and **off-chain** procedures to uphold transparency, fairness, and inclusivity. This model encourages collective decision-making, where users have a say in the platform's growth and evolution.
+This improves control over performance, cost, policy, and interoperability across the full Clear ecosystem.
 
-**On-chain governance** empowers token holders to propose and vote on platform upgrades and modifications. **Off-chain governance**, meanwhile, relies on traditional structures, such as advisory boards and committees, to guide the platform's strategic direction. This approach combines the advantages of decentralized decision-making with the practical wisdom of expert guidance.
+## Who Clear Is For
 
-## Equity Tokens, Bonds, and Notes
+- **Hobbyists:** launch trackable products and community experiences
+- **Developers:** build with open, composable protocol components
+- **Businesses:** connect product identity, commerce, and finance in one stack
+- **Consumers:** verify products, track provenance, and access ownership-linked benefits
 
-**Deed3Labs** introduces the concept of **equity tokens, bonds, and notes**, providing users with a chance to invest in the platform and benefit from its growth. 
+## Repository Highlights
 
-- **Equity tokens** represent ownership in an asset
-- **Bonds and notes** act as debt instruments, promising a return to the investor over a specified period
+- [Protocol-Contracts](https://github.com/Deed3Labs/Protocol-Contracts) — core contracts, protocol logic, deployment tooling
+- [Protocol-Interface](https://github.com/Deed3Labs/Protocol-Interface) — white-label interface and frontend system
+- [ProtocolSDK](https://github.com/Deed3Labs/ProtocolSDK) — TypeScript SDK for integrations
+- [Protocol-Agreements](https://github.com/Deed3Labs/Protocol-Agreements) — legal layer aligned with protocol workflows
+- [Posts](https://github.com/Deed3Labs/Posts) — ecosystem ideas and long-form writing
 
-Each investment option comes with its own set of considerations and potential benefits, offering a diversified array of opportunities to stakeholders.
+## Current Stage
 
-## Legal Considerations
+Clear is in **alpha / active build mode**.  
+Interfaces and modules will continue evolving as we ship.
 
-Operating within the legal confines of the jurisdictions it serves, **Deed3Labs** ensures that all activities, including asset registration, leasing, and transactions, adhere to relevant laws and regulations. As blockchain technology continues to evolve, Deed3Labs is committed to staying abreast of legal developments to ensure compliance and protect our users' interests.
+## Build With Us
 
-## Conclusion
-
-**Deed3Labs** is not just an organization; it's a community determined to reshape real asset interactions. We welcome you to join us on this groundbreaking journey, where together, we can fully leverage the potential of real assets.
-
-For further information, please visit our documentation pages or join our vibrant community on the - [Deed3 Discord Server](https://discord.gg/S7kDY5wFxx)
+- [Issues](https://github.com/Deed3Labs/Protocol-Contracts/issues)
+- [Discussions](https://github.com/Deed3Labs/Protocol-Contracts/discussions)
