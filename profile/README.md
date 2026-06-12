@@ -1,5 +1,4 @@
-# Clear Financial Coop.
-### Formerly Deed3Labs
+# Take the ClearPath!
 
 Clear is building cooperative infrastructure that connects ownership, finance, and physical products on-chain.
 
